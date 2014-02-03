@@ -4,6 +4,10 @@ A minimal sublime theme that works well (slightly better) for reading in bright/
 
 ![An screen grab of the "A Thing" sublime/textmate theme](http://i.imgur.com/TaFA1XZ.png)
 
+## Install
+
+You can install this theme through the [sublime package manager](https://sublime.wbond.net/), or search google on how to install themes manually.
+
 ----
 
 The MIT License (MIT)
